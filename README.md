@@ -5,4 +5,5 @@ Feel free to fork this repo or check it out [here](https://dev.azure.com/dbma-de
 
 # My current process.
 ![Azure + Angular](http://dmartinez.dbma-dev.com/img/azure-angular.png)
+
 The process can be reversed (i.e. Webstorm > Azure > github) if desired.
