@@ -21,6 +21,9 @@ steps:
 - script: npm install
   displayName: 'Installing Dependencies'
 
+- script: npx ng lint
+  displayName: 'Code Analysis'
+
 - script: npx ng build --prod
   displayName: 'npm install and build'
 
