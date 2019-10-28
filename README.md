@@ -7,3 +7,5 @@ Feel free to fork this repo or check it out [here](https://dev.azure.com/dbma-de
 ![Azure + Angular](http://dmartinez.dbma-dev.com/img/azure-angular.png)
 
 The process can be reversed (i.e. Webstorm > Azure > github) if desired.
+
+[Source](https://dev.to/thisdotmedia/continuously-integrating-angular-with-azure-devops-2k9l)
